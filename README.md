@@ -24,7 +24,7 @@ I’m a backend developer with a passion for crafting efficient and scalable sys
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/infoSleuth25/infoSleuth25/blob/main/tech/htmlimg.png" alt="html" style="vertical-align:top; margin:4px;height:12%;width:12%">    
+  <img src="https://github.com/infoSleuth25/infoSleuth25/blob/main/tech/htmlimage.png" alt="html" style="vertical-align:top; margin:4px;height:12%;width:12%">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">

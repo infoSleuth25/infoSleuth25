@@ -8,9 +8,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:siddheshborse25@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/infoSleuth25)
 
-</div>
-
-<div style="font-family: 'Montserrat', sans-serif;">
+<div style="font-family: 'Montserrat', sans-serif;" >
 
 I’m a backend developer with a passion for crafting efficient and scalable systems. I specialize in designing robust APIs, managing databases, and ensuring smooth server-side operations. When I’m not coding, you’ll probably find me on the football field, watching the Champions League or La Liga, and cheering for my favorite club, FC Barcelona.
 
@@ -19,6 +17,10 @@ I’m a backend developer with a passion for crafting efficient and scalable sys
     🔵 <font color="#1D9BF0">Visca Barça, Visca Catalunya</font> 🔴
   </samp>
 </div>
+
+</div>
+
+
 
 </div>
 
